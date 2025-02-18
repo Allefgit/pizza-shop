@@ -1,4 +1,4 @@
-# 🍕 Pizza Shop - Gerenciamento de Delivery de Pizzaria
+# 🍕 Pizza Shop - Gerenciamento de Delivery
 ![PizzaShop](https://github.com/user-attachments/assets/cb0986e5-5a2f-41f4-8682-32d14c5718cb)
 
 ## 📌 Descrição
